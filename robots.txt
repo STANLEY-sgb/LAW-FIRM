@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block admin panel from all search engines and crawlers
+Disallow: /admin.php
+Disallow: /api/
+Disallow: /db_init.php
+Disallow: /data/
