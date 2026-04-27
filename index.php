@@ -4320,8 +4320,4 @@ if (function_exists('getDB')) {
   </script>
 </body>
 
-</html>l>>l>>>l>e });
-  </script>
-</body>
-
-</html>l>>l>>>l>
+</html>
